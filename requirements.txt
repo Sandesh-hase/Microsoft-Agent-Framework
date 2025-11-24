@@ -1,2 +1,4 @@
 agent-framework
 python-dotenv
+PyPDF2
+pymupdf
